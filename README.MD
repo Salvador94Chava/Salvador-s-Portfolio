@@ -33,9 +33,23 @@ here are screenshots from the GitHub account
 
 also here is a picture of the webpage running on Github-pages
 
-![screenshot webpage Github-pages]
+![screenshot webpage Github-pages](assets/Images/Screenshot_20211117_001340.png)
 
 # Credits
+there are no extra collaborations in this portfolio.
+
 # License
+I give permision for anybody to see my code and to replicate if they wish to do so.
+
 # Links
+
+here are the links ot the websites of Github here the person reading will be able to locate my work on the repository.
+
+[Github-Salvador94Chava](https://github.com/Salvador94Chava)
+
 # Bugs
+there are still bugs on the repo, I was unable to fix when the website is visited or seen in a different, device besides a laptop. the person will have difficulties reading or understanding the page in General.
+
+I will keep updating this file on the future.
+
+This page was updated on 16/11/2021 (Day/Month/Year)
