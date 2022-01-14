@@ -14,6 +14,13 @@
 
 }
 
+@media and (max-width: 540px) {
+    .view {
+        width: 400px
+    }
+}
+
+
 .topnav {
     overflow: hidden;
     background-color: rgb(113, 30, 182);
