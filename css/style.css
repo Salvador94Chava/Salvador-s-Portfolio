@@ -9,6 +9,7 @@
         /* font-size: 1.2rem; /
         / line-height: 1em !important; */
         font-size: 1rem;
+
     }
 
 }
@@ -46,6 +47,9 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: blueviolet;
     color: #ffffff;
+    position: fixed;
+    bottom: 0%;
+
 }
 
 header h1 {
@@ -176,7 +180,12 @@ header nav ul p {
 }
 
 .wrapper {
-    margin-top: auto;
+    margin-top: 0 auto;
+    width: 960px;
+    min-height: 720px;
+    text-align: center;
+    padding-top: 20px;
+
 }
 
 .social-media {
@@ -233,4 +242,16 @@ li:hover {
 .glow:hover {
     box-shadow: inset 0px 0px 8px rgb(121, 205, 211), 0 0 15px rgb(166, 231, 247);
     text-shadow: 0 0 15px rgb(121, 205, 211), 0 0 15px rgb(166, 231, 247);
+}
+
+.Wolf {
+    padding-top: 0%;
+    bottom: 0%;
+    left: 100px;
+    right: 100px;
+    top: auto;
+    border-radius: 50%;
+    width: 500px;
+    height: auto;
+    vertical-align: right;
 }
