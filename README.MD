@@ -24,7 +24,7 @@ In the following spaces I will have links to make it easier for the reader. to f
 
 -[Bugs](#Bugs)
 
-# Installation
+## Installation
 To run this web-page we only need to go to GitHub to https://github.com/Salvador94Chava/Salvador-s-Portfolio and click on clone code or to simply go to pages and click on the link. and go to the webpage and we can check the web-page from there.
 
 here are screenshots from the GitHub account
@@ -33,23 +33,25 @@ here are screenshots from the GitHub account
 
 also here is a picture of the webpage running on Github-pages
 
-![screenshot webpage Github-pages](assets/Images/Screenshot_20211117_001340.png)
+![screenshot webpage Github-pages](assets/Images/new-Screenshot-from-deployed-page.png)
 
-# Credits
+## Credits
 there are no extra collaborations in this portfolio.
 
-# License
+## License
 I give permision for anybody to see my code and to replicate if they wish to do so.
 
-# Links
+## Links
 
 here are the links ot the websites of Github here the person reading will be able to locate my work on the repository.
 
 [Github-Salvador94Chava](https://github.com/Salvador94Chava)
 
-# Bugs
+## Bugs
 there are still bugs on the repo, I was unable to fix when the website is visited or seen in a different, device besides a laptop. the person will have difficulties reading or understanding the page in General.
+
+still not able to make the page work on another screens I will have to make a coderefactor.
 
 I will keep updating this file on the future.
 
-This page was updated on 16/11/2021 (Day/Month/Year)
+This page was updated on 13/1/2022 (Day/Month/Year)
